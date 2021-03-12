@@ -10,5 +10,4 @@
 >	>	> 포메라니안 ^^
 
 
-[다음링크](https://www.daum.net/)
-![image](https://user-images.githubusercontent.com/80079684/110879008-927fb580-831f-11eb-9743-bc62f739d780.png)
+![포메라니안](https://user-images.githubusercontent.com/80079684/110879008-927fb580-831f-11eb-9743-bc62f739d780.png)
