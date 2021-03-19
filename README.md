@@ -15,4 +15,4 @@
 ###### 웰시코기의 치명적 뒷태
 ![웰시코기](https://user-images.githubusercontent.com/80079684/110880376-e12e4f00-8321-11eb-8bdd-f3ccb0df5675.png)
 
-[웰시코기 동영상]https://www.youtube.com/watch?v=51K6zVKt2y4
+[웰시코기 동영상](https://www.youtube.com/watch?v=51K6zVKt2y4)
